@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"flooringCalc","c":"FloorsCalc","l":"areaCalc()"},{"p":"flooringCalc","c":"FloorsCalc","l":"FloorsCalc()","url":"%3Cinit%3E()"},{"p":"flooringCalc","c":"FloorsCalc","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"flooringCalc","c":"FloorsCalc","l":"priceCalc(double)"}]
